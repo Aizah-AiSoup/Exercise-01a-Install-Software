@@ -1,10 +1,10 @@
 # Exercise-01a-Install-Software
 My name is:
 
-[Your Name]
+Aizah Ahmad
 
 My github username is:
 
-[Your Username]
+Aizah-AiSoup
 
 BL-MSCH-C220
